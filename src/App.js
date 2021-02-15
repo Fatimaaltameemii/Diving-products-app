@@ -1,1 +1,5 @@
-<title>Diving Products</title>;
+function App() {
+  <title>Diving Products</title>;
+}
+
+export default App;
