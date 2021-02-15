@@ -1,9 +1,1 @@
-
-function App() {
-  return (
-    
-  
-  );
-}
-
-export default App;
+<title>Diving Products</title>;
