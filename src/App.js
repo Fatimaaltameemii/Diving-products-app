@@ -1,18 +1,15 @@
-import logo from "./diving-logo.jpg";
-import "./styles.css";
+import products from "./Products";
+import Hederstyle from "./Hederstyle";
+import Products from "./Products";
+import ProductItem from "./ProductItem";
+import ProductsList from "./ProductsList";
+import ProductsItem from "./ProductItem";
 function App() {
   return (
-    <body className="background">
-      <div>
-        <div style={{ float: "left" }}>
-          <img className="photo" alt="D-logo" src={logo} />
-        </div>
-        <h1 style={{ textAlign: "center" }}>Diving Products</h1>
-        <h4 style={{ textAlign: "center" }}>
-          Where never an end for the sea 🤿
-        </h4>
-      </div>
-    </body>
+    <div>
+      <Hederstyle />
+      <ProductItem />
+    </div>
   );
 }
 
