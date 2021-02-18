@@ -6,3 +6,11 @@
   background-color: #282c34;
   color: ghostwhite;
 }
+.productstyle {
+  text-align: center;
+}
+.imgesize {
+  height: 150px;
+  width: auto;
+  float: center;
+}

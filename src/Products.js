@@ -1,14 +1,16 @@
+import divingmask from "./productspics/divingmask.jpg";
+import divingwatch from "./productspics/divingwatch.jpg";
 let products = [
   {
     name: "Mask",
     price: "25",
-    image: "./productspics/divingmask.jpg",
+    image: divingmask,
     alt: "divingMask",
   },
   {
     name: "divingWatch",
     price: "100",
-    image: "./productspics/divingwatch.jpg",
+    image: divingwatch,
     alt: "divingWatch",
   },
 ];
